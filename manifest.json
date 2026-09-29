@@ -1,0 +1,12 @@
+{
+    "Name": "Crab Pot Fish Rerandomized",
+    "Author": "WhyBother11",
+    "Version": "%ProjectVersion%",
+    "Description": "Improves crab pot fish randomization.",
+    "UniqueID": "WhyBother11.CrabPotFishRerandomized",
+    "EntryDll": "CrabPotFishRerandomized.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [
+        "Nexus:53069"
+    ]
+}
